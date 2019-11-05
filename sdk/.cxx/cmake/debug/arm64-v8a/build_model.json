@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/cibclivelabs/Desktop/PayCards_Android",
+      "sdkFolder": "/Users/cibclivelabs/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/build/intermediates",
+      "gradleModulePathName": ":sdk",
+      "moduleRootFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk",
+      "makeFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/.cxx",
+      "cxxFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx",
+      "ndkFolder": "/Users/cibclivelabs/Library/Android/sdk/ndk/20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/cibclivelabs/Desktop/PayCards_Android/sdk/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}
