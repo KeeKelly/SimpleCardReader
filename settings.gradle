@@ -1,1 +1,2 @@
-include ':demo', ':sdk'
+include ':app'
+rootProject.name='MyCardReader'
